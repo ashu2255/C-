@@ -14,3 +14,68 @@ A document stored in MongoDB resembles just like the object in OOPS.
 
 MongoDB aspires to be the best database choice for a system where you need to manage large-sized tables with tons of data. Moreover, it is not required to update the entire table because MongoDB includes fields to manage them.
 With the help of MongoDB, you can develop an entire application using just one programming language i.e., JavaScript.
+----------------------------------------------------------------------------------------------
+What is ExpressJS?
+ExpressJS is a powerful JavaScript framework. It is mature and flexible and the scalability of this framework is loved by all the MEAN stack developers. 
+It is an ultra-lightweight server framework that is designed to build single-page, multi-page, and hybrid web applications.
+The lightweight framework support adds an advantage to make use of the Pug engine to support various modules and templates.
+Additionally, ExpressJS is also known as a de-facto framework for Node.js meaning that it carries heavy inspiration from Sinatra, a popular framework for Ruby on Rails.
+----------------------------------------------------------------------------------------------
+What is AngularJS?
+AngularJS is a powerful open-source JavaScript framework that is maintained by Google.
+The main objective of this framework is to introduce you to its MVC (Model View Controller) architecture that is used in browser-based applications. 
+This MVC makes the development and testing process easier. 
+The framework also lets you create a smart and personalized web app that supports all the systems.
+AngularJS allows the developers to opt for HTML as template language thereby letting them extend the syntax of HTML to express the native and divergent components of your desired applications. 
+Moreover, AngularJS possesses unique features like injection dependency and data binding methods that are used to eliminate the task of writing plenty of lines of codes and binding them into one component.
+-----------------------------------------------------------------------------------------------
+What is Node.js?
+Node.js is a server-side JavaScript runtime environment that allows developers to create web servers and build an application on top of it. 
+Node.js is a powerful environment that lets you run your entire small, medium, or large scaled industrial applications in a browser-free external environment without domains. 
+It means that the applications can be configured as and when required before deploying them to the industry.
+Additionally, Node.js uses a model that follows a non-blocking and event-driven approach. 
+This model makes it easier and efficient, lightweight, and perfect to carry out the data-intensive and real-time application that runs across various distributed systems be it on macOS, Windows, or Linux.
+---------------------------------------------------------------------------------------------
+Angular JS: The main task of angular is to accept requests and display the results to end-users.
+
+NodeJS: It handles the requests constituting server and client.
+
+Express JS: Makes database requests and fetches responses.
+
+MongoDB: Used for storing and retrieving data.
+-------------------------------------------------------------------------------------------------
+To elaborate the procedure, the working methodology of the MERN stack is based on the following concept.
+
+First and foremost, the client creates a request which is gathered by AngularJS.
+After the above step, the request moves to Node.js where it is parsed.
+The next step involves the presence of ExpressJS that makes calls to MongoDB to set or get data.
+Now, Node.js returns the requests to the client, and AngularJS on the client-side displays the results fetched from the processed request by MongoDB.
+-------------------------------------------------------------------------------------------------
+Skillset of MEAN stack developers:
+
+Mean stack developers should work on the Front-end and Back-end processes. A MEAN stack developer should be able to work on both the back-end and front-end collaboratively.
+MEAN stack developers should possess the ability to understand and work with HTML & CSS.
+A MEAN stack developer is expected to have the awareness of design architecture guidelines and a basic understanding of programming templates.
+Knowledge of cloud technologies, continuous integration, and web development is a plus to get going with the MERN stack.
+A MEAN stack developer is expected to have the fundamental knowledge of database architecture.
+Knowledge of SDLC and experience in the Agile environment plus the collaboration of the IT team into building dynamic support system based on business objective is highly desired to be a called a MEAN stack developer.
+Lastly, the wannabe MEAN stack developer should deliver hands-on experience on MongoDB, Express, Angular, and Node.
+-----------------------------------------------------------------------------------------
+Advantages of MEAN stack:
+
+Here, are some most prominent reasons for using Mean Stack technology, which are as follows:
+
+Creative allowance of a simple and open-source solution that can later be put into consideration for building robust applications and a system to handle maintainable solutions.
+MEAN stack is a proven technological solution for carrying out rapid development and integration.
+MEAN stack is a leverageable JavaScript that is based on a 100% full-stack development paradigm.
+The use of a single and uniform language for covering out literally every aspect of application development is an added advantage of the MEAN stack.
+Usage of MEAN stack covers very less overhead with little or no footprint at all.
+It also helps you to avoid unnecessary groundwork and helps to build an application in an organized paradigm.
+Another advantage that is taken into account for the MEAN stack is that MongoDB is a high cloud build database, Node.js simplifies the server layer and the MEAN stack thus makes the overall development isomorphic.
+-----------------------------------------------------------------------------------------
+Disadvantages of MEAN stack:
+MongoDB might seem an ideal choice for building small to mid-sized applications. Nevertheless, it is not well suited for building large industrial applications.
+There are no such JavaScript programming guidelines for the MEAN stack. Once an application is developed using the MEAN stack, it is quite hard to trace back the older version thereby making it a bit absurd.
+The usage of the MEAN stack carried another disadvantage of poor isolation from the business logic layer and there might arise a situation of losing records whilst developing the application.
+
+
