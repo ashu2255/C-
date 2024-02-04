@@ -77,5 +77,16 @@ Disadvantages of MEAN stack:
 MongoDB might seem an ideal choice for building small to mid-sized applications. Nevertheless, it is not well suited for building large industrial applications.
 There are no such JavaScript programming guidelines for the MEAN stack. Once an application is developed using the MEAN stack, it is quite hard to trace back the older version thereby making it a bit absurd.
 The usage of the MEAN stack carried another disadvantage of poor isolation from the business logic layer and there might arise a situation of losing records whilst developing the application.
-
-
+--------------------------------------------------------------------------------------
+Summary:
+MEAN stack development can be explicitly defined as a technological collection of JavaScript-based frameworks and libraries highly preferred for web development. 
+It is one of the most popular terms amongst software developers who deal with the web. 
+The applications built using the MERN stack are highly sophisticated and therefore a lot of developers aspire to be full-stack developers instead. 
+The motive behind it so cover all the aspects of the MEAN stack and getting hands-on expertise in web development framework before moving into the MERN stack.
+--------------------------------------------------------------------------------------
+MongoDB is an open-source, cross-platform database that follows a NoSQL nature.
+ExpressJS is called a mature, flexible, and lightweight server framework.
+The whole idea behind the MEAN stack is based on the nature of the projects and how well these technologies collaboratively process the needs.
+Another fact about the MEAN stack is that the MEAN stack is user-friendly and an ideal option for building dynamic and powerful websites and applications. 
+But, it carries along with a disadvantage of not having proper JS coding guidelines which makes its usage a bit clumsy although an application is build using a single programming language i.e., JavaScript.
+------------------------------------------------------------------------------------------
