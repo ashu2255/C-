@@ -6,3 +6,11 @@ Additionally, the nature of MongoDB is based on NoSQL, and therefore it allows y
 It is considered quite valuable when you're trying to build an application with clear specifications. 
 The developers prefer the MEAN stack because the community of these technologies has a lot of backend support.
 It is easier to find answers and hiring the best of the best developers' expert in this domain.
+---------------------------------------------------------------------------------------------
+What is MongoDB?
+MongoDB is a cross-platform and open-source database that is written in C++. It stores data in Binary JSON format consisting of data storage in the form of key-value pairs.
+It is also called a NoSQL database because of its document-oriented nature.
+A document stored in MongoDB resembles just like the object in OOPS.
+
+MongoDB aspires to be the best database choice for a system where you need to manage large-sized tables with tons of data. Moreover, it is not required to update the entire table because MongoDB includes fields to manage them.
+With the help of MongoDB, you can develop an entire application using just one programming language i.e., JavaScript.
